@@ -1,0 +1,7 @@
+[TestDatabase]
+path = ~/Projects/folder-db/data/TestDatabase/ # Absolute path
+
+# Persons
+path = Persons # relative to Database path
+primary_keys = id.int # composite primary keys optional with ,
+
